@@ -7,14 +7,19 @@ waudio convert English text to to audio through ivona service
 
 ## Help
 Usage of ./waudio:
+
   -f string
     	data file
+    	
   -help
     	show help
+    	
   -k string
     	IVONA_ACCESS_KEY
+    	
   -s string
     	IVONA_SECRET_KEY
+    	
   -v	version
 
 ## Notes
